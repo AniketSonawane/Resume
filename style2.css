@@ -1,0 +1,47 @@
+body{
+    background-color:cadetblue;
+}
+.myButton {
+        
+        
+    background-color:whitesmoke;
+    border-radius:10px;
+    border:5px solid #e0ebe8;
+    display:inline-block;
+    cursor:pointer;
+    color: #4AB19A;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:17px;
+    padding:7px 25px;
+    text-decoration:darkcyan;
+    margin-left: 45%;
+    
+}
+.myButton:hover {
+   
+    background-color:#e0ebe8;
+}
+.myButton:active {
+    position:relative;
+    top:1px;
+}
+.bottom-container{
+    text-align: center;
+    background-color: cadetblue;
+    margin-top: 20px;
+    padding: 20px  ;
+}
+a.footer-link{
+    margin: 10px 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #f4f8f7;
+    text-decoration: none;
+    padding: 10px 0px;
+}
+a.footer-link:hover{
+    color:#032b21;
+}
+.copyright{
+    color: goldenrod;
+    padding: 20px 0px;
+}
